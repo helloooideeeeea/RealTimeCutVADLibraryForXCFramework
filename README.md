@@ -7,18 +7,15 @@ Dummy repository for distributing XCFrameworks and Android shared libraries, inc
 
 
 1. **RealTimeCutVADCXXLibrary**\
-   This C++ library provides advanced real-time VAD funct[ionalities.](https://github.com/helloooideeeeea/RealTimeCutVADLibrary)\
-   **[Build Source:](https://github.com/helloooideeeeea/RealTimeCutVADLibrary)**\
+   This C++ library provides advanced real-time VAD functionalities.[here](https://github.com/helloooideeeeea/RealTimeCutVADLibrary)\
    [RealTimeCutVADLibrary](https://github.com/helloooideeeeea/RealTimeCutVADLibrary)
 
 2. **webrtc\_audio\_processing**\
-   WebRTC-based audio processing library featuring noise suppression and echo ca[ncellation.](https://github.com/helloooideeeeea/webrtc-audio-processing)\
-   **[Build Source:](https://github.com/helloooideeeeea/webrtc-audio-processing)**\
+   WebRTC-based audio processing library featuring noise suppression and echo cancellation.[here](https://github.com/helloooideeeeea/webrtc-audio-processing)\
    [WebRTC Audio Processing](https://github.com/helloooideeeeea/webrtc-audio-processing)
 
 3. **onnxruntime.xcframework**\
-   ONNX Runtime XCFramework optimized for running machine learning models re[lated to VAD.](https://download.onnxruntime.ai/pod-archive-onnxruntime-c-1.20.0.zip)\
-   **[Source ZIP:](https://download.onnxruntime.ai/pod-archive-onnxruntime-c-1.20.0.zip)**\
+   ONNX Runtime XCFramework optimized for running machine learning models related to VAD.[here](https://download.onnxruntime.ai/pod-archive-onnxruntime-c-1.20.0.zip)\
    [ONNX Runtime Download](https://download.onnxruntime.ai/pod-archive-onnxruntime-c-1.20.0.zip)\
    The XCFramework is created by zipping the xcframework folder located one level down from the extracted directory.
 
@@ -29,11 +26,9 @@ For iOS and macOS, these libraries are distributed as XCFrameworks.
 
 1. **RealTimeCutVADCXXLibrary.xcframework.zip**  
    Pre-built XCFramework providing advanced real-time VAD functionalities.  
-   **Build Source:** [RealTimeCutVADLibrary](https://github.com/helloooideeeeea/RealTimeCutVADLibrary)
 
 2. **webrtc_audio_processing.xcframework.zip**  
    WebRTC-based audio processing library featuring noise suppression and echo cancellation.  
-   **Build Source:** [WebRTC Audio Processing](https://github.com/helloooideeeeea/webrtc-audio-processing)
 
 3. **onnxruntime.xcframework.zip**  
    ONNX Runtime XCFramework optimized for running machine learning models related to VAD.  
