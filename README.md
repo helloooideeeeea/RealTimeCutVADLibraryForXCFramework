@@ -24,15 +24,18 @@ For iOS and macOS, these libraries are distributed as XCFrameworks.
 
 1. **RealTimeCutVADCXXLibrary.xcframework.zip**  
    Pre-built XCFramework providing advanced real-time VAD functionalities.
+   
    **Source ZIP:** [RealTimeCutVADCXXLibrary.xcframework.zip](https://github.com/helloooideeeeea/RealTimeCutVADLibraryForXCFramework/releases/download/v1.0.1/RealTimeCutVADCXXLibrary.xcframework.zip)
 
 3. **webrtc_audio_processing.xcframework.zip**  
    WebRTC-based audio processing library featuring noise suppression and echo cancellation.
+   
    **Source ZIP:** [webrtc_audio_processing.xcframework.zip](https://github.com/helloooideeeeea/RealTimeCutVADLibraryForXCFramework/releases/download/v1.0.0/webrtc_audio_processing.xcframework.zip)
 
 5. **onnxruntime.xcframework.zip**  
    ONNX Runtime XCFramework optimized for running machine learning models related to VAD.  
-   **Source ZIP:** [ONNX Runtime Download](https://download.onnxruntime.ai/pod-archive-onnxruntime-c-1.20.0.zip)  
+   **Source ZIP:** [ONNX Runtime Download](https://download.onnxruntime.ai/pod-archive-onnxruntime-c-1.20.0.zip)
+   
    The XCFramework is created by zipping the xcframework folder located one level down from the extracted directory.
 
 ### Android Shared Libraries
@@ -40,7 +43,8 @@ For Android, pre-built `.so` files are included in `jniLibs.zip`.
 
 1. **jniLibs.zip**\
    This archive contains pre-built shared libraries for Android.\
-   **Source ZIP:** [jniLibs.zip Download](https://github.com/helloooideeeeea/RealTimeCutVADLibraryForXCFramework/releases/download/v1.0.1/jniLibs.zip) 
+   **Source ZIP:** [jniLibs.zip Download](https://github.com/helloooideeeeea/RealTimeCutVADLibraryForXCFramework/releases/download/v1.0.1/jniLibs.zip)
+   
    **Structure:**
 
    ```
