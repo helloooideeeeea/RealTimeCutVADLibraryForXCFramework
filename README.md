@@ -2,6 +2,8 @@
 
 Dummy repository for distributing XCFrameworks and Android shared libraries, including ONNX Runtime, APM, and a C++ library utilizing APM for real-time Voice Activity Detection (VAD) in iOS and Android projects.
 
+Latest Release is 2025/04/06
+
 ## Common Libraries (iOS/macOS & Android)
 
 1. **RealTimeCutVADCXXLibrary**\
